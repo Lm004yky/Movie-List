@@ -118,15 +118,3 @@ Contributions are welcome! Feel free to submit a pull request or report an issue
 <img width="333" alt="Снимок экрана 2024-11-14 в 16 34 33" src="https://github.com/user-attachments/assets/ab593ca9-5e1b-432f-b41d-b60f62b3ab17">
 <img width="332" alt="Снимок экрана 2024-11-14 в 16 34 12" src="https://github.com/user-attachments/assets/1dd5a040-db74-4010-b93f-7a512f90e0af">
 
-
-## Contact
-
-For any questions or suggestions, reach out to:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-```
-
-### Инструкции:
-1. Замените `path/to/movies-screen.png`, `path/to/movie-details-screen.png`, и `path/to/favorites-screen.png` на реальные пути к скриншотам вашего приложения.
-2. Укажите ваш `GitHub` репозиторий и контактные данные.
-3. Обновите лицензию и ссылку на ваш профиль GitHub, если нужно.
